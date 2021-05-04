@@ -1,2 +1,2 @@
 # thebakucoin
-An algorand coin used to rank and buy nets
+An algorand coin used to rank and buy NFTs
