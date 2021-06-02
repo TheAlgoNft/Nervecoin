@@ -1,2 +1,2 @@
-# thebakucoin
-An algorand coin used to rank and buy NFTs
+# Nevercoin
+An algorand coin used in the metaverse
